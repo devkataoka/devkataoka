@@ -21,17 +21,3 @@ fullstack web development.
   <img src="https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=C9D1D9&labelColor=0D1117" alt="Prisma">
   <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117" alt="Git">
 </p>
-
-<br>
-
-## • GitHub
-
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=devkataoka&show_icons=true&hide_border=true&hide=issues&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E"
-    height="165"
-    alt="GitHub stats">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkataoka&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E"
-    height="165"
-    alt="Top languages">
