@@ -9,6 +9,7 @@ fullstack web development.
 
 <br>
 
+<div align="center">
 ## • Stack
 
 <p align="left">
@@ -20,4 +21,5 @@ fullstack web development.
   <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=0D1117" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=C9D1D9&labelColor=0D1117" alt="Prisma">
   <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117" alt="Git">
+</div>  
 </p>
