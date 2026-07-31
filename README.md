@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**devkataoka/devkataoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=devkataoka&fontAlign=50&fontAlignY=35&color=0:0d0d0d,100:000000&fontColor=ffffff" alt="header" />
 
-Here are some ideas to get you started:
+# 👋 Olá, eu sou o @devkataoka
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Construindo coisas úteis, limpas e modernas.
+
+<p>
+  <img src="https://img.shields.io/badge/Theme-Black-000000?style=for-the-badge&logo=github&logoColor=white" alt="Black Theme" />
+  <img src="https://img.shields.io/badge/Profile-README-111111?style=for-the-badge&logo=readme&logoColor=white" alt="Profile README" />
+</p>
+
+</div>
+
+---
+
+## 🚀 Sobre mim
+- 🎯 Foco em desenvolvimento prático e evolução contínua.
+- 🧠 Sempre aprendendo novas tecnologias e boas práticas.
+- 🤝 Aberto para colaboração em projetos interessantes.
+
+## 🛠️ Stack & Ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,js,ts,nodejs,python,java,docker,vscode&theme=dark" alt="skills" />
+</p>
+
+## 📫 Contato
+- GitHub: [@devkataoka](https://github.com/devkataoka)
+
+<div align="center">
+  <sub>Feito com ☕ e tema black.</sub>
+</div>
