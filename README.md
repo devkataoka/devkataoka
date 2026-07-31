@@ -11,7 +11,6 @@ fullstack web development.
 
 ## • Stack
 
-JavaScript · TypeScript · React · Node.js · Express · PostgreSQL · Prisma · Git
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117" alt="TypeScript">
