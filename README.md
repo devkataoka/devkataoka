@@ -10,7 +10,8 @@ fullstack web development.
 <br>
 
 <div align="center">
-## • Stack
+  
+# • Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117" alt="JavaScript">
