@@ -1,8 +1,38 @@
+<div align="center">
+
 # • Gabriel Kataoka
 
 Studying Software Engineering, focused on JavaScript/TypeScript and
 fullstack web development.
 
+</div>
+
+<br>
+
 ## • Stack
 
 JavaScript · TypeScript · React · Node.js · Express · PostgreSQL · Prisma · Git
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E&labelColor=0D1117" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=C9D1D9&labelColor=0D1117" alt="Express">
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=0D1117" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=C9D1D9&labelColor=0D1117" alt="Prisma">
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117" alt="Git">
+</p>
+
+<br>
+
+## • GitHub
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=devkataoka&show_icons=true&hide_border=true&hide=issues&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E"
+    height="165"
+    alt="GitHub stats">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkataoka&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E"
+    height="165"
+    alt="Top languages">
